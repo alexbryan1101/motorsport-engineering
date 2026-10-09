@@ -60,3 +60,5 @@ turning racing data into measurable performance improvements.
 
 Develop reliable, documented, and experimentally validated
 tools that support real-world motorsport performance.
+
+Next milestone: Build my first telemetry analysis tool.
